@@ -1,0 +1,16 @@
+D:\KULIAH\PROGRAMING LANGUAGE 2\spp\spp\bin\Debug\spp.exe.config
+D:\KULIAH\PROGRAMING LANGUAGE 2\spp\spp\bin\Debug\spp.exe
+D:\KULIAH\PROGRAMING LANGUAGE 2\spp\spp\bin\Debug\spp.pdb
+D:\KULIAH\PROGRAMING LANGUAGE 2\spp\spp\bin\Debug\spp.xml
+D:\KULIAH\PROGRAMING LANGUAGE 2\spp\spp\obj\Debug\spp.form_byr_sis.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\spp\spp\obj\Debug\spp.form_list_byr.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\spp\spp\obj\Debug\spp.form_login.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\spp\spp\obj\Debug\spp.form_menu_utama.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\spp\spp\obj\Debug\spp.form_pembayaran.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\spp\spp\obj\Debug\spp.Resources.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\spp\spp\obj\Debug\spp.vbproj.GenerateResource.cache
+D:\KULIAH\PROGRAMING LANGUAGE 2\spp\spp\obj\Debug\spp.vbproj.CoreCompileInputs.cache
+D:\KULIAH\PROGRAMING LANGUAGE 2\spp\spp\obj\Debug\spp.exe
+D:\KULIAH\PROGRAMING LANGUAGE 2\spp\spp\obj\Debug\spp.xml
+D:\KULIAH\PROGRAMING LANGUAGE 2\spp\spp\obj\Debug\spp.pdb
+D:\KULIAH\PROGRAMING LANGUAGE 2\spp\spp\obj\Debug\spp.vbproj.AssemblyReference.cache
